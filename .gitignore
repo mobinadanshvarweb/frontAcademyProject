@@ -1,6 +1,0 @@
-backend/.env
-backend/.cache/
-backend/node_modules/
-backend/public/uploads/
-frontend/.env.local
-frontend/node_modules/

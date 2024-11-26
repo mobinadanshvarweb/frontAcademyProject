@@ -1,0 +1,39 @@
+# Node modules
+/node_modules
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# Build output
+/build
+/dist
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Strapi specific
+/.cache
+/public/uploads
+
+# IDE config files
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db

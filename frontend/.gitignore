@@ -1,0 +1,37 @@
+# Node modules
+/node_modules
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# Build output
+.next
+out
+
+# IDE config folder
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# npm package logs
+npm-debug.log*
